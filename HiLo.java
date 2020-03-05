@@ -92,4 +92,4 @@ public class HiLo{
       
     return(points);//returns numbe of points
   }
-}
+} 
